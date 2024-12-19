@@ -25,9 +25,9 @@ Este proyecto realiza un **Análisis Exploratorio de Datos (EDA)** del mercado d
 ### Fuente de Datos
 El dataset utilizado fue obtenido de [Kaggle](https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024/data).
 
-- **Variables categóricas**: `console`, `genre`, `publisher`, `developer`.
-- **Variables numéricas**: `total_sales`, `na_sales`, `pal_sales`, `jp_sales`, `critic_score`, `other_sales`.
-- **Variables temporales**: `release_date`, `update_date`.
+- **Variables categóricas**: `consola`, `genero`, `editor`, `desarrollador`.
+- **Variables numéricas**: `ventas_totales`, `ventas_na`, `ventas_europa`, `ventas_japon`, `puntuacion_critica`, `ventas_otros`.
+- **Variables temporales**: `fecha_lanzamiento`, `fecha_actualizacion`.
 
 ### Tratamiento de Datos
 - **Valores nulos**:
@@ -71,5 +71,5 @@ El dataset utilizado fue obtenido de [Kaggle](https://www.kaggle.com/datasets/as
 ## Instalación
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/rafaneda7/eda-videojuegos.git
+   git clone https://github.com/rafaneda7/EDA-Videogame-Sales-1990-2018.git
 
