@@ -68,8 +68,12 @@ El dataset utilizado fue obtenido de [Kaggle](https://www.kaggle.com/datasets/as
 
 ---
 
-## Instalación
-1. Clona el repositorio:
+
+- Clona el repositorio:
    ```bash
    git clone https://github.com/rafaneda7/EDA-Videogame-Sales-1990-2018.git
-
+   
+Contacto
+Autor: Rafael Neda
+Correo: rafael.angel.neda@gmail.com
+Ubicación: Valencia, España
