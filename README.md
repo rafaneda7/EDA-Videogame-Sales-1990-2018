@@ -74,6 +74,7 @@ El dataset utilizado fue obtenido de [Kaggle](https://www.kaggle.com/datasets/as
    git clone https://github.com/rafaneda7/EDA-Videogame-Sales-1990-2018.git
 
 ---
+## Enlaces a presentaciones
 
 - Puedes acceder al Dashboard en powerbi haciendo click [aqui](https://app.powerbi.com/view?r=eyJrIjoiYTMzMDJmZTctNTIyYS00ZjQ5LWI2OTYtMzE0MTJiZGE0ZmMzIiwidCI6IjliMTc1NTdmLTNkM2EtNGViNi1hM2JlLTE4NTQ5YWQwZThkMSJ9)
 - Puedes acceder a la presentación en Canva haciendo click [aqui](https://www.canva.com/design/DAGZlM1FTu8/xPvW1JlG7CXFaaZ1xUzhKQ/edit)
