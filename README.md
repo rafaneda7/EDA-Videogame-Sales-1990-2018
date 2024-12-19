@@ -75,8 +75,8 @@ El dataset utilizado fue obtenido de [Kaggle](https://www.kaggle.com/datasets/as
 
 ---
 
-Puedes acceder al Dashboard en powerbi haciendo click [aqui](https://app.powerbi.com/view?r=eyJrIjoiYTMzMDJmZTctNTIyYS00ZjQ5LWI2OTYtMzE0MTJiZGE0ZmMzIiwidCI6IjliMTc1NTdmLTNkM2EtNGViNi1hM2JlLTE4NTQ5YWQwZThkMSJ9)
-Puedes acceder a la presentación en Canva haciendo click [aqui](https://www.canva.com/design/DAGZlM1FTu8/xPvW1JlG7CXFaaZ1xUzhKQ/edit)
+- Puedes acceder al Dashboard en powerbi haciendo click [aqui](https://app.powerbi.com/view?r=eyJrIjoiYTMzMDJmZTctNTIyYS00ZjQ5LWI2OTYtMzE0MTJiZGE0ZmMzIiwidCI6IjliMTc1NTdmLTNkM2EtNGViNi1hM2JlLTE4NTQ5YWQwZThkMSJ9)
+- Puedes acceder a la presentación en Canva haciendo click [aqui](https://www.canva.com/design/DAGZlM1FTu8/xPvW1JlG7CXFaaZ1xUzhKQ/edit)
 
 ---
 
