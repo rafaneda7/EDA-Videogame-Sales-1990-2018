@@ -73,7 +73,7 @@ El dataset utilizado fue obtenido de [Kaggle](https://www.kaggle.com/datasets/as
    ```bash
    git clone https://github.com/rafaneda7/EDA-Videogame-Sales-1990-2018.git
    
-Contacto
+## Contacto
 
 - Autor: Rafael Neda
 - Correo: rafael.angel.neda@gmail.com
