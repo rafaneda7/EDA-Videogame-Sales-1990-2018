@@ -69,7 +69,7 @@ El dataset utilizado fue obtenido de [Kaggle](https://www.kaggle.com/datasets/as
 ---
 
 
-- Clona el repositorio:
+- ## Clona el repositorio:
    ```bash
    git clone https://github.com/rafaneda7/EDA-Videogame-Sales-1990-2018.git
 
