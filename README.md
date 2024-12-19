@@ -1,4 +1,4 @@
-# Análisis Exploratorio de Datos (EDA): Ventas de Videojuegos 🎮
+# Análisis Exploratorio de Datos (EDA): Ventas de Videojuegos a nivel global y regional entre los años 1990-2018 🎮
 
 ## Descripción General
 Este proyecto realiza un **Análisis Exploratorio de Datos (EDA)** del mercado de videojuegos entre 1990 y 2018, evaluando las ventas globales y regionales por género, plataforma y región geográfica. El objetivo es entender las tendencias de mercado y proporcionar insights clave para mejorar la toma de decisiones estratégicas en la industria.
